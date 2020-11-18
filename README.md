@@ -1,6 +1,6 @@
 # Nom du projet - Foroom
    
-## Objectif principale
+## Objectif principal
 	Créer un forum de discussion sur application mobile basée 
 	sur le système d'exploitation android.
 
@@ -8,11 +8,11 @@
  * Discuter sur des sujets 	
  * Créer des sujets
  * De poster des messages dans les sujets
- * De moderer le forum
+ * De modérer le forum
  * Envoyer des messages de diffusion privés
  * Créer des discussions privées entre plusieurs personnes
  * Consulter le profil utilisateur
- * rechercher des sujets
+ * Rechercher des sujets
  # Foroom
  * Description<br>
  Créer un forum de discussion sur application mobile basée 
